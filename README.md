@@ -15,7 +15,7 @@ An **image signal** is an unwanted signal that appears at the mirror frequency o
 
 The input to the transmitter is a single-tone signal, Z(t) = cos(2πfmt) + j sin(2πfmt). There is an imbalance between the transmitter and receiver, with the receiver's Q branch experiencing a gain imbalance and phase imbalance. The gain imbalance is estimated to be 0.9, while the phase imbalance is assumed to be 0.
 
-![Alt text](./IQ Imbalance/Image/ZI_SingleTone.jpg)
+![Alt text](IQ Imbalance/Image/ZI_SingleTone.jpg)
 <br /> *Figure 1: Input Singal Tone*
 
 After demodulation, the output signal differs from the input to the transmitter due to IQ imbalance.
