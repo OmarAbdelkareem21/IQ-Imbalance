@@ -27,7 +27,7 @@ The pilot signal was configured to estimate the imbalance parameters, including 
 
 The transformation matrix, along with the estimated gain and phase parameters, was used to recover the original input signal without error.
 
-![Alt text](IQ Imbalance/Image/z_Estimated.jpg)
+![Alt text](Image/z_Estimated.jpg)
 <br /> *Figure 3: Output Signal without Image - Estimated Parameters*
 
 ![Alt text](IQ Imbalance/Image/Z_Correct.jpg)
